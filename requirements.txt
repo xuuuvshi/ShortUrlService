@@ -1,0 +1,5 @@
+Django==1.9.9
+
+# Use hashids when you do not want to expose your database ids to the user.
+# https://github.com/davidaurelio/hashids-python
+hashids==1.1.0
